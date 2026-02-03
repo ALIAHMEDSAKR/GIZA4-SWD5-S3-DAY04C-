@@ -1,0 +1,14 @@
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\bin\Debug\net9.0\AssignmentD04.exe
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\bin\Debug\net9.0\AssignmentD04.deps.json
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\bin\Debug\net9.0\AssignmentD04.runtimeconfig.json
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\bin\Debug\net9.0\AssignmentD04.dll
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\bin\Debug\net9.0\AssignmentD04.pdb
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.GeneratedMSBuildEditorConfig.editorconfig
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.AssemblyInfoInputs.cache
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.AssemblyInfo.cs
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.csproj.CoreCompileInputs.cache
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.dll
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\refint\AssignmentD04.dll
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.pdb
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\AssignmentD04.genruntimeconfig.cache
+H:\Depi-Course\Seasion16-Tech(C#)D04\Day04\AssignmentD04\obj\Debug\net9.0\ref\AssignmentD04.dll
